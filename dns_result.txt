@@ -1,140 +1,1158 @@
+;; Got SERVFAIL reply from 127.0.0.53
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-Non-authoritative answer:
-Name:	a.wuqu.pp.ua
-Address: 8.222.193.65
-Name:	a.wuqu.pp.ua
-Address: 130.61.170.78
-Name:	a.wuqu.pp.ua
-Address: 130.162.140.215
+** server can't find yx.lj888.cloudns.biz: SERVFAIL
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	sg.wokaotianshi.eu.org
-Address: 168.138.177.109
-Name:	sg.wokaotianshi.eu.org
-Address: 8.219.1.169
-Name:	sg.wokaotianshi.eu.org
-Address: 129.150.53.95
-Name:	sg.wokaotianshi.eu.org
-Address: 138.2.75.91
-Name:	sg.wokaotianshi.eu.org
-Address: 152.69.219.32
-Name:	sg.wokaotianshi.eu.org
+Name:	de.radically.pro
+Address: 141.144.232.159
+Name:	de.radically.pro
+Address: 43.131.49.250
+Name:	de.radically.pro
+Address: 130.61.23.77
+Name:	de.radically.pro
+Address: 138.3.254.39
+;; Warning: ID mismatch: expected ID 46930, got 5731
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sipwps.com
+Address: 172.67.169.189
+Name:	sipwps.com
+Address: 104.21.27.203
+Name:	sipwps.com
+Address: 2606:4700:3030::ac43:a9bd
+Name:	sipwps.com
+Address: 2606:4700:3032::6815:1bcb
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	us.cf.zhetengsha.eu.org
+Address: 150.230.47.3
+Name:	us.cf.zhetengsha.eu.org
+Address: 129.146.248.140
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	subdomain.qikaifei.sbs
+Address: 104.25.15.23
+Name:	subdomain.qikaifei.sbs
+Address: 104.18.230.168
+Name:	subdomain.qikaifei.sbs
+Address: 104.22.62.195
+Name:	subdomain.qikaifei.sbs
+Address: 104.25.245.82
+Name:	subdomain.qikaifei.sbs
+Address: 104.18.233.221
+Name:	subdomain.qikaifei.sbs
+Address: 172.66.194.183
+Name:	subdomain.qikaifei.sbs
+Address: 104.18.173.229
+Name:	subdomain.qikaifei.sbs
+Address: 104.16.29.141
+Name:	subdomain.qikaifei.sbs
+Address: 104.23.123.69
+Name:	subdomain.qikaifei.sbs
+Address: 104.16.199.164
+Name:	subdomain.qikaifei.sbs
+Address: 104.18.192.93
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+an.clun.top	canonical name = cn.clun.top.
+cn.clun.top	canonical name = cn.clun.top.cdn.cloudflare.net.
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 104.22.53.235
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 104.22.52.235
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 172.67.27.46
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:35eb
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:34eb
+Name:	cn.clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::ac43:1b2e
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+api.ephone.ai	canonical name = cdn.api.ephone.ai.
+Name:	cdn.api.ephone.ai
+Address: 1.0.0.5
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	qq8838cu.com
+Address: 46.166.184.102
+Name:	qq8838cu.com
+Address: 185.206.180.121
+Name:	qq8838cu.com
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	qq8838cu.com
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	a.fznzixin.cloudns.org
+Address: 185.206.180.121
+Name:	a.fznzixin.cloudns.org
+Address: 46.166.184.102
+Name:	a.fznzixin.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	a.fznzixin.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+jp08.nttkk.com	canonical name = a0.nttkk.com.
+a0.nttkk.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.21.233.133
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.95.237
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.169.230
+Name:	cf.cloudflare.182682.xyz
+Address: 104.18.87.231
+Name:	cf.cloudflare.182682.xyz
+Address: 104.18.224.52
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:20::c79:3cb1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+ru01.nttkk.com	canonical name = a2.nttkk.com.
+a2.nttkk.com	canonical name = zoom.earth.
+Name:	zoom.earth
+Address: 172.67.68.56
+Name:	zoom.earth
+Address: 104.26.5.90
+Name:	zoom.earth
+Address: 104.26.4.90
+Name:	zoom.earth
+Address: 2606:4700:20::681a:45a
+Name:	zoom.earth
+Address: 2606:4700:20::681a:55a
+Name:	zoom.earth
+Address: 2606:4700:20::ac43:4438
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find ss.xiaoshus.com: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find proxyip.jp.fuck.cloudns.biz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	xancn.xyz
+Address: 104.21.53.130
+Name:	xancn.xyz
+Address: 172.67.213.27
+Name:	xancn.xyz
+Address: 2606:4700:3036::6815:3582
+Name:	xancn.xyz
+Address: 2606:4700:3031::ac43:d51b
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.28et.com
+Address: 66.29.136.78
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find spkr.hongye.gay: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	edgetunnel.anycast.eu.org
+Address: 152.70.155.147
+Name:	edgetunnel.anycast.eu.org
 Address: 158.178.246.35
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-** server can't find youiu.wang66.homes: NXDOMAIN
+Non-authoritative answer:
+Name:	www.gdriustb.com
+Address: 162.209.149.30
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-proxyip.sg.fxxk.dedyn.io	canonical name = proxyip.sg.hw.090227.xyz.
-proxyip.sg.hw.090227.xyz	canonical name = sg.cmliu.cloudns.org.cdn.cloudflare.net.
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 168.138.184.172
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 146.235.17.31
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 178.128.91.137
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 138.2.94.123
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 209.97.172.173
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 213.35.105.46
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+www.xfltd.link	canonical name = bestproxy.onecf.eu.org.
+Name:	bestproxy.onecf.eu.org
+Address: 193.123.69.77
+Name:	bestproxy.onecf.eu.org
+Address: 132.145.54.84
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.47.32
+Name:	bestproxy.onecf.eu.org
+Address: 193.123.252.170
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.85.167
+Name:	bestproxy.onecf.eu.org
+Address: 143.47.243.144
+Name:	bestproxy.onecf.eu.org
+Address: 140.238.158.238
+Name:	bestproxy.onecf.eu.org
+Address: 8.212.41.98
+Name:	bestproxy.onecf.eu.org
+Address: 150.230.20.156
+Name:	bestproxy.onecf.eu.org
+Address: 47.243.35.200
+Name:	bestproxy.onecf.eu.org
+Address: 144.24.169.81
+Name:	bestproxy.onecf.eu.org
+Address: 193.122.1.0
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.61.116
+Name:	bestproxy.onecf.eu.org
+Address: 132.226.236.61
+Name:	bestproxy.onecf.eu.org
+Address: 152.70.59.90
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	518720.xyz
+Address: 104.19.35.102
+
+;; Truncated, retrying in TCP mode.
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+ipdb.rr.nu	canonical name = my-telegram-is-herocore.onecf.eu.org.
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 138.3.241.56
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 176.97.73.20
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 149.129.8.215
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 138.2.79.156
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 132.226.135.93
+Name:	my-telegram-is-herocore.onecf.eu.org
 Address: 13.250.131.37
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 104.248.145.216
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 209.97.172.173
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 178.128.91.137
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 104.248.145.216
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 146.235.17.31
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 13.250.131.37
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 138.2.94.123
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 168.138.184.172
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 213.35.105.46
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-proxyip.puiyin.eu.org	canonical name = cf.proxyip.dynv6.net.
-cf.proxyip.dynv6.net	canonical name = proxyip.sg.fxxk.dedyn.io.
-proxyip.sg.fxxk.dedyn.io	canonical name = proxyip.sg.hw.090227.xyz.
-proxyip.sg.hw.090227.xyz	canonical name = sg.cmliu.cloudns.org.cdn.cloudflare.net.
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 178.128.91.137
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 138.2.94.123
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 104.248.145.216
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 213.35.105.46
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 13.250.131.37
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 168.138.184.172
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 146.235.17.31
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 209.97.172.173
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-cffr.187088.xyz	canonical name = cdn-b100.xn--b6gac.eu.org.
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 140.238.28.86
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 152.67.222.167
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 150.230.6.108
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 146.56.152.52
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 130.162.133.250
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 152.70.92.252
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 64.110.81.221
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 123.58.212.234
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 158.101.134.79
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 138.2.17.253
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 8.210.92.27
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 144.24.82.70
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 130.162.140.40
-Name:	cdn-b100.xn--b6gac.eu.org
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 138.3.254.39
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 158.180.68.242
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 107.189.7.254
+Name:	my-telegram-is-herocore.onecf.eu.org
 Address: 138.2.75.91
-Name:	cdn-b100.xn--b6gac.eu.org
-Address: 132.226.231.130
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 141.144.202.22
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 104.248.145.216
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 154.31.113.72
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 138.2.9.61
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 209.97.172.173
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 146.235.17.31
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 168.138.184.172
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 18.141.204.88
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 144.24.200.164
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 193.123.234.156
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 45.77.9.114
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 23.94.212.4
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 51.79.254.182
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 173.249.207.151
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 146.56.97.150
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 166.1.18.165
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 62.76.234.85
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 176.119.148.163
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 209.146.103.59
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 8.222.233.183
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 143.47.246.17
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 198.12.95.225
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 138.2.170.166
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 8.218.63.172
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 172.104.110.10
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 66.42.34.203
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 15.235.162.49
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 192.95.21.234
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 172.104.120.67
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 176.120.74.190
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 168.138.185.234
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 185.206.180.121
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 5.39.254.2
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 146.56.101.177
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 62.72.163.109
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 23.162.136.169
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 43.153.80.208
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 45.77.130.245
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 168.138.165.174
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 91.149.242.235
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 45.76.220.61
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 50.114.177.206
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 198.46.200.132
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 173.249.197.84
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 123.58.212.234
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 141.144.232.159
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 46.166.184.102
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 129.227.139.137
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 141.148.239.157
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 103.137.63.2
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 176.32.35.38
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 45.32.25.171
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 141.148.247.71
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 216.146.25.209
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 141.147.190.128
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 144.24.90.107
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 185.217.5.3
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 141.144.197.55
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 23.156.104.116
+Name:	my-telegram-is-herocore.onecf.eu.org
+Address: 45.142.115.59
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nrt.lb.free.hr
+Address: 8.209.217.106
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	03641.net
+Address: 172.67.164.185
+Name:	03641.net
+Address: 104.21.50.178
+Name:	03641.net
+Address: 2606:4700:3032::6815:32b2
+Name:	03641.net
+Address: 2606:4700:3030::ac43:a4b9
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ddns.zhenghyan.cloudns.org
+Address: 185.206.180.121
+Name:	ddns.zhenghyan.cloudns.org
+Address: 46.166.184.102
+Name:	ddns.zhenghyan.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	ddns.zhenghyan.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	m9.xgmn.cloudns.org
+Address: 185.206.180.121
+Name:	m9.xgmn.cloudns.org
+Address: 46.166.184.102
+Name:	m9.xgmn.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	m9.xgmn.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 66.lutong.eu.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find ac.cloudflarest.link: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	75uw.com
+Address: 23.225.148.166
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; Got SERVFAIL reply from 127.0.0.53
+** server can't find 75uw.com: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find proxy.611886.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.zdqx.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find sg.aitv.shop: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kk777.xyz
+Address: 185.206.180.121
+Name:	kk777.xyz
+Address: 46.166.184.102
+Name:	kk777.xyz
+Address: 2a00:1768:2001:63::46:102
+Name:	kk777.xyz
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	cdn.docker.mom
+Address: 192.157.56.140
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	hk.worker00001.cloudns.org
+Address: 185.206.180.121
+Name:	hk.worker00001.cloudns.org
+Address: 46.166.184.102
+Name:	hk.worker00001.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	hk.worker00001.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	578.one
+Address: 185.206.180.121
+Name:	578.one
+Address: 46.166.184.102
+Name:	578.one
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	578.one
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+jhpcza.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global22.66666654.xyz.
+Name:	cfcn-a-global22.66666654.xyz
+Address: 172.67.70.23
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find hk.curl.eu.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 16509.200307.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	aa.zhangge121.publicvm.com
+Address: 43.153.80.208
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+virginia.ns.cloudfare.com	canonical name = cloudflare.com.
+Name:	cloudflare.com
+Address: 104.16.133.229
+Name:	cloudflare.com
+Address: 104.16.132.229
+Name:	cloudflare.com
+Address: 2606:4700::6810:85e5
+Name:	cloudflare.com
+Address: 2606:4700::6810:84e5
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find vapi.rrre.pw: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.3wkan.com	canonical name = bvod25.95mo.xyz.
+Name:	bvod25.95mo.xyz
+Address: 172.67.209.173
+Name:	bvod25.95mo.xyz
+Address: 104.21.53.69
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3035::ac43:d1ad
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3034::6815:3545
+
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; no servers could be reached
+
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+a.likespeak.com	canonical name = traff-1.hugedomains.com.
+traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 54.209.32.212
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 52.71.57.184
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+jp2.wlhacker.lol	canonical name = 94950.bodis.com.
+Name:	94950.bodis.com
+Address: 199.59.243.226
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find yayu16.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find sg.wlcf.lol: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.4hts.com
+Address: 185.206.180.121
+Name:	www.4hts.com
+Address: 46.166.184.102
+Name:	www.4hts.com
+Address: 2a00:1768:2001:63::46:102
+Name:	www.4hts.com
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	n.88867888.xyz
+Address: 35.194.241.8
+Name:	n.88867888.xyz
+Address: 206.237.24.40
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	a.sxhz888.cloudns.org
+Address: 46.166.184.102
+Name:	a.sxhz888.cloudns.org
+Address: 185.206.180.121
+Name:	a.sxhz888.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	a.sxhz888.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	y2.xinad.top
+Address: 162.159.240.129
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find jp3.jjjjj.fn-node.site: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cf.cdn.cmliu.net: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kunge.cloudns.org
+Address: 185.206.180.121
+Name:	kunge.cloudns.org
+Address: 46.166.184.102
+Name:	kunge.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	kunge.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+
+;; Truncated, retrying in TCP mode.
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	hk1.mrguo.eu.org
+Address: 47.76.32.108
+Name:	hk1.mrguo.eu.org
+Address: 47.57.216.18
+Name:	hk1.mrguo.eu.org
+Address: 152.32.130.241
+Name:	hk1.mrguo.eu.org
+Address: 47.76.49.246
+Name:	hk1.mrguo.eu.org
+Address: 8.210.132.64
+Name:	hk1.mrguo.eu.org
+Address: 8.218.138.214
+Name:	hk1.mrguo.eu.org
+Address: 8.212.23.156
+Name:	hk1.mrguo.eu.org
+Address: 8.210.216.28
+Name:	hk1.mrguo.eu.org
+Address: 47.242.110.210
+Name:	hk1.mrguo.eu.org
+Address: 8.218.65.237
+Name:	hk1.mrguo.eu.org
+Address: 47.76.33.40
+Name:	hk1.mrguo.eu.org
+Address: 8.217.247.30
+Name:	hk1.mrguo.eu.org
+Address: 47.242.79.71
+Name:	hk1.mrguo.eu.org
+Address: 8.217.247.204
+Name:	hk1.mrguo.eu.org
+Address: 47.242.91.172
+Name:	hk1.mrguo.eu.org
+Address: 8.210.212.243
+Name:	hk1.mrguo.eu.org
+Address: 47.76.57.102
+Name:	hk1.mrguo.eu.org
+Address: 8.218.149.103
+Name:	hk1.mrguo.eu.org
+Address: 8.218.77.233
+Name:	hk1.mrguo.eu.org
+Address: 8.217.181.77
+Name:	hk1.mrguo.eu.org
+Address: 47.76.69.143
+Name:	hk1.mrguo.eu.org
+Address: 47.76.37.57
+Name:	hk1.mrguo.eu.org
+Address: 8.210.107.246
+Name:	hk1.mrguo.eu.org
+Address: 8.210.220.153
+Name:	hk1.mrguo.eu.org
+Address: 47.76.45.22
+Name:	hk1.mrguo.eu.org
+Address: 47.76.72.84
+Name:	hk1.mrguo.eu.org
+Address: 47.76.64.134
+Name:	hk1.mrguo.eu.org
+Address: 47.57.245.232
+Name:	hk1.mrguo.eu.org
+Address: 8.218.126.143
+Name:	hk1.mrguo.eu.org
+Address: 47.243.61.175
+Name:	hk1.mrguo.eu.org
+Address: 8.218.255.40
+Name:	hk1.mrguo.eu.org
+Address: 8.218.135.237
+Name:	hk1.mrguo.eu.org
+Address: 8.210.89.113
+Name:	hk1.mrguo.eu.org
+Address: 129.227.139.137
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.1a1v.com
+Address: 45.58.161.171
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kk.yk21.free.hr
+Address: 172.67.77.127
+Name:	kk.yk21.free.hr
+Address: 198.41.196.65
+Name:	kk.yk21.free.hr
+Address: 172.64.40.162
+Name:	kk.yk21.free.hr
+Address: 162.159.44.188
+Name:	kk.yk21.free.hr
+Address: 162.159.129.29
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 1.achen.link: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.hw-screw.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	p-xiaott.dynv6.net
+Address: 47.57.14.118
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find hx-cf.nftbswap.io: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ct.worker00001.cloudns.org
+Address: 185.206.180.121
+Name:	ct.worker00001.cloudns.org
+Address: 46.166.184.102
+Name:	ct.worker00001.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	ct.worker00001.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+cdnjs.cloudfare.com	canonical name = cloudflare.com.
+Name:	cloudflare.com
+Address: 104.16.132.229
+Name:	cloudflare.com
+Address: 104.16.133.229
+Name:	cloudflare.com
+Address: 2606:4700::6810:84e5
+Name:	cloudflare.com
+Address: 2606:4700::6810:85e5
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find proxyip.jp.prianganmedia.eu.org: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.kangzhijie.com
+Address: 64.32.10.17
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find youx.yituw.link: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxyip.cfdns.cloudns.ch
+Address: 168.138.165.174
+;; Got SERVFAIL reply from 127.0.0.53
+** server can't find proxyip.cfdns.cloudns.ch: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find fmvcr2pj.98yp.cc: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sg.921219.xyz
+Address: 172.64.88.134
+Name:	sg.921219.xyz
+Address: 173.245.49.125
+Name:	sg.921219.xyz
+Address: 172.64.82.146
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	uu.zhongyoutc.com
+Address: 193.123.252.170
+Name:	uu.zhongyoutc.com
+Address: 152.70.155.147
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	666.gylying.cloudns.org
+Address: 185.206.180.121
+Name:	666.gylying.cloudns.org
+Address: 46.166.184.102
+Name:	666.gylying.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	666.gylying.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find cdn.ahdark.gay: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+collect.gitgoogle.com	canonical name = collect.proxyip.hw.gitgoogle.com.
+collect.proxyip.hw.gitgoogle.com	canonical name = collect.git.cloudns.org.cdn.cloudflare.net.
+Name:	collect.git.cloudns.org.cdn.cloudflare.net
+Address: 192.95.21.234
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxyip.118558.xyz
+Address: 8.219.111.147
+Name:	proxyip.118558.xyz
+Address: 138.2.94.123
+Name:	proxyip.118558.xyz
+Address: 18.141.204.88
+Name:	proxyip.118558.xyz
+Address: 13.250.131.37
+Name:	proxyip.118558.xyz
+Address: 8.219.4.122
+Name:	proxyip.118558.xyz
+Address: 162.159.153.2
+Name:	proxyip.118558.xyz
+Address: 104.248.145.216
+Name:	proxyip.118558.xyz
+Address: 162.159.152.2
+Name:	proxyip.118558.xyz
+Address: 8.219.170.232
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ty231.com
+Address: 46.166.184.102
+Name:	ty231.com
+Address: 185.206.180.121
+;; communications error to 127.0.0.53#53: timed out
+Name:	ty231.com
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	ty231.com
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.cloudflare.jp	canonical name = cloudflare.com.
+Name:	cloudflare.com
+Address: 104.16.132.229
+Name:	cloudflare.com
+Address: 104.16.133.229
+Name:	cloudflare.com
+Address: 2606:4700::6810:84e5
+Name:	cloudflare.com
+Address: 2606:4700::6810:85e5
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	yxjp.juna3066.store
+Address: 45.77.130.245
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nan.cloudns.org
+Address: 46.166.184.102
+Name:	nan.cloudns.org
+Address: 185.206.180.121
+Name:	nan.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	nan.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.wudeyy.com
+Address: 104.21.66.156
+Name:	www.wudeyy.com
+Address: 172.67.161.128
+Name:	www.wudeyy.com
+Address: 2606:4700:3034::6815:429c
+Name:	www.wudeyy.com
+Address: 2606:4700:3035::ac43:a180
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 213.35.105.46
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 209.97.172.173
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 146.235.17.31
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 168.138.184.172
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 138.2.94.123
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 178.128.91.137
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 104.248.145.216
+Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 13.250.131.37
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+jp01.nttkk.com	canonical name = a2.nttkk.com.
+a2.nttkk.com	canonical name = zoom.earth.
+Name:	zoom.earth
+Address: 172.67.68.56
+Name:	zoom.earth
+Address: 104.26.4.90
+Name:	zoom.earth
+Address: 104.26.5.90
+Name:	zoom.earth
+Address: 2606:4700:20::681a:45a
+Name:	zoom.earth
+Address: 2606:4700:20::ac43:4438
+Name:	zoom.earth
+Address: 2606:4700:20::681a:55a
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+tf19.co	canonical name = pr-suspensions.go.co.
+pr-suspensions.go.co	canonical name = pr-suspensions-neuweb-biz.expedrion.biz.
+pr-suspensions-neuweb-biz.expedrion.biz	canonical name = Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+Name:	Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com
+Address: 34.231.102.64
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	uu.cnyohu.com
+Address: 152.67.202.49
+Name:	uu.cnyohu.com
+Address: 138.2.113.207
+Name:	uu.cnyohu.com
+Address: 152.67.221.249
+Name:	uu.cnyohu.com
+Address: 141.147.18.169
+Name:	uu.cnyohu.com
+Address: 152.70.235.207
+Name:	uu.cnyohu.com
+Address: 130.162.236.117
+Name:	uu.cnyohu.com
+Address: 138.2.118.252
+Name:	uu.cnyohu.com
+Address: 138.2.113.197
+Name:	uu.cnyohu.com
+Address: 132.145.251.218
+Name:	uu.cnyohu.com
+Address: 141.147.34.138
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find ipdb.app.tc: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.26poliklinika.by
+Address: 46.166.184.102
+Name:	www.26poliklinika.by
+Address: 185.206.180.121
+Name:	www.26poliklinika.by
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+Name:	www.26poliklinika.by
+Address: 2a00:1768:2001:63::46:102
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.jgdeng.com
+Address: 104.21.82.100
+Name:	www.jgdeng.com
+Address: 172.67.200.38
+Name:	www.jgdeng.com
+Address: 2606:4700:3032::6815:5264
+Name:	www.jgdeng.com
+Address: 2606:4700:3036::ac43:c826
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	hive.cloudns.org
+Address: 46.166.184.102
+Name:	hive.cloudns.org
+Address: 185.206.180.121
+Name:	hive.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	hive.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sj01.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a1.zz.nttkk.com.
+a1.zz.nttkk.com	canonical name = www.oppo.com.
+www.oppo.com	canonical name = www.oppo.com.edgekey.net.
+www.oppo.com.edgekey.net	canonical name = e94411.a.akamaiedge.net.
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.6
+Name:	e94411.a.akamaiedge.net
+Address: 23.212.251.11
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxyip.us.186077.xyz
+Address: 43.153.80.208
+Name:	proxyip.us.186077.xyz
+Address: 99.83.209.185
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+tw.wlhacker.lol	canonical name = 94950.bodis.com.
+Name:	94950.bodis.com
+Address: 199.59.243.226
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	jp02.nttkk.com
+Address: 157.120.59.45
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
@@ -153,459 +1171,7 @@ Address: 2606:4700::6810:85e5
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-Non-authoritative answer:
-proxyip.ro.cloudns.org	canonical name = proxy.xxxxxxxx.tk.
-Name:	proxy.xxxxxxxx.tk
-Address: 132.226.231.130
-Name:	proxy.xxxxxxxx.tk
-Address: 138.2.17.253
-Name:	proxy.xxxxxxxx.tk
-Address: 144.24.82.70
-Name:	proxy.xxxxxxxx.tk
-Address: 130.162.140.40
-Name:	proxy.xxxxxxxx.tk
-Address: 152.70.92.252
-Name:	proxy.xxxxxxxx.tk
-Address: 123.58.212.234
-Name:	proxy.xxxxxxxx.tk
-Address: 138.2.75.91
-Name:	proxy.xxxxxxxx.tk
-Address: 64.110.81.221
-Name:	proxy.xxxxxxxx.tk
-Address: 8.210.92.27
-Name:	proxy.xxxxxxxx.tk
-Address: 146.56.152.52
-Name:	proxy.xxxxxxxx.tk
-Address: 158.101.134.79
-Name:	proxy.xxxxxxxx.tk
-Address: 140.238.28.86
-Name:	proxy.xxxxxxxx.tk
-Address: 130.162.133.250
-Name:	proxy.xxxxxxxx.tk
-Address: 152.67.222.167
-Name:	proxy.xxxxxxxx.tk
-Address: 150.230.6.108
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find cftest5.feiyu001.xyz: NXDOMAIN
-
-;; Truncated, retrying in TCP mode.
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 168.138.185.234
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 132.226.135.93
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 23.162.136.169
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 62.76.234.85
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 107.189.7.254
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 15.235.162.49
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 18.141.204.88
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 103.137.63.2
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 185.217.5.3
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 173.249.197.84
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 143.47.246.17
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 66.42.34.203
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 192.95.21.234
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 216.146.25.209
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 46.166.184.102
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 123.58.212.234
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 209.97.172.173
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 23.156.104.116
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 144.24.200.164
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.32.25.171
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.144.232.159
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 51.79.254.182
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.75.91
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 8.218.63.172
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.79.156
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 185.206.180.121
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 8.222.233.183
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.148.247.71
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 50.114.177.206
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.77.130.245
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.77.9.114
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 146.56.101.177
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.148.239.157
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 172.104.110.10
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 154.31.113.72
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 158.180.68.242
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 166.1.18.165
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.142.115.59
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 193.123.234.156
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 13.250.131.37
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 168.138.165.174
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.97.73.20
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.144.202.22
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.170.166
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 172.104.120.67
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 144.24.90.107
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.32.35.38
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 104.248.145.216
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 43.153.80.208
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 146.235.17.31
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.3.254.39
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.76.220.61
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 62.72.163.109
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 168.138.184.172
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.3.241.56
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 173.249.207.151
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 129.227.139.137
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.119.148.163
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 23.94.212.4
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 209.146.103.59
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.9.61
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.147.190.128
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.120.74.190
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 198.46.200.132
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 149.129.8.215
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 146.56.97.150
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 91.149.242.235
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 5.39.254.2
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 198.12.95.225
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.144.197.55
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	sg.onecf.eu.org
-Address: 209.97.172.173
-Name:	sg.onecf.eu.org
-Address: 104.248.145.216
-Name:	sg.onecf.eu.org
-Address: 138.2.79.156
-Name:	sg.onecf.eu.org
-Address: 146.235.17.31
-Name:	sg.onecf.eu.org
-Address: 13.250.131.37
-Name:	sg.onecf.eu.org
-Address: 15.235.162.49
-Name:	sg.onecf.eu.org
-Address: 8.222.233.183
-Name:	sg.onecf.eu.org
-Address: 138.2.75.91
-Name:	sg.onecf.eu.org
-Address: 51.79.254.182
-Name:	sg.onecf.eu.org
-Address: 185.217.5.3
-Name:	sg.onecf.eu.org
-Address: 168.138.184.172
-Name:	sg.onecf.eu.org
-Address: 168.138.185.234
-Name:	sg.onecf.eu.org
-Address: 168.138.165.174
-Name:	sg.onecf.eu.org
-Address: 18.141.204.88
-;; communications error to 127.0.0.53#53: timed out
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find yx.zhke.cf: NXDOMAIN
-
-;; Truncated, retrying in TCP mode.
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-ipdb.rr.nu	canonical name = my-telegram-is-herocore.onecf.eu.org.
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 129.227.139.137
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.3.254.39
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 168.138.185.234
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.144.197.55
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 166.1.18.165
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 146.235.17.31
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 23.156.104.116
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 5.39.254.2
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 216.146.25.209
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 149.129.8.215
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 15.235.162.49
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 8.218.63.172
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 209.97.172.173
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 51.79.254.182
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.142.115.59
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 144.24.200.164
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.97.73.20
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 185.217.5.3
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.76.220.61
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 173.249.207.151
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 193.123.234.156
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 209.146.103.59
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 8.222.233.183
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 146.56.101.177
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.147.190.128
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 91.149.242.235
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 158.180.68.242
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 23.162.136.169
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 168.138.165.174
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 168.138.184.172
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 43.153.80.208
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.170.166
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.32.25.171
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.79.156
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 123.58.212.234
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.3.241.56
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 18.141.204.88
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 172.104.120.67
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.144.202.22
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 23.94.212.4
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 50.114.177.206
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 154.31.113.72
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 172.104.110.10
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.144.232.159
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.119.148.163
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 107.189.7.254
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 198.12.95.225
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 104.248.145.216
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.32.35.38
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 173.249.197.84
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 62.72.163.109
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 146.56.97.150
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.75.91
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.148.239.157
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 138.2.9.61
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 141.148.247.71
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 13.250.131.37
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 185.206.180.121
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 176.120.74.190
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 46.166.184.102
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.77.9.114
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 66.42.34.203
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 143.47.246.17
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 132.226.135.93
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 192.95.21.234
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 62.76.234.85
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 103.137.63.2
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 45.77.130.245
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 198.46.200.132
-Name:	my-telegram-is-herocore.onecf.eu.org
-Address: 144.24.90.107
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	iwzyw.com
-Address: 144.24.80.96
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find lt01.auro99.link: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.iwzyw.com
-Address: 144.24.80.96
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find sg2.satuaja.wiki: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-yxip.now.cc	canonical name = 443-wrt-yx.888687.xyz.
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.58.108
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.63.23
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.62.60
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.57.115
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.59.113
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.58.108
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.59.113
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.62.60
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.63.23
-Name:	443-wrt-yx.888687.xyz
-Address: 104.19.57.115
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-cf.proxyip.dynv6.net	canonical name = proxyip.sg.fxxk.dedyn.io.
-proxyip.sg.fxxk.dedyn.io	canonical name = proxyip.sg.hw.090227.xyz.
-proxyip.sg.hw.090227.xyz	canonical name = sg.cmliu.cloudns.org.cdn.cloudflare.net.
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 178.128.91.137
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 104.248.145.216
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 146.235.17.31
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 13.250.131.37
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 138.2.94.123
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 168.138.184.172
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 213.35.105.46
-Name:	sg.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 209.97.172.173
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find sg.wlcf.lol: NXDOMAIN
+** server can't find pengcheng.dns.army: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
@@ -615,45 +1181,75 @@ Address:	127.0.0.53#53
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-** server can't find cfip.36du.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	fanfan.cloudns.org
+Address: 46.166.184.102
+Name:	fanfan.cloudns.org
+Address: 185.206.180.121
+Name:	fanfan.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	fanfan.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	proxy.xxxxxxxx.tk
-Address: 150.230.6.108
-Name:	proxy.xxxxxxxx.tk
-Address: 8.210.92.27
-Name:	proxy.xxxxxxxx.tk
-Address: 152.67.222.167
-Name:	proxy.xxxxxxxx.tk
-Address: 130.162.140.40
-Name:	proxy.xxxxxxxx.tk
-Address: 140.238.28.86
-Name:	proxy.xxxxxxxx.tk
-Address: 138.2.75.91
-Name:	proxy.xxxxxxxx.tk
-Address: 152.70.92.252
-Name:	proxy.xxxxxxxx.tk
-Address: 144.24.82.70
-Name:	proxy.xxxxxxxx.tk
-Address: 123.58.212.234
-Name:	proxy.xxxxxxxx.tk
-Address: 132.226.231.130
-Name:	proxy.xxxxxxxx.tk
-Address: 158.101.134.79
-Name:	proxy.xxxxxxxx.tk
-Address: 146.56.152.52
-Name:	proxy.xxxxxxxx.tk
-Address: 64.110.81.221
-Name:	proxy.xxxxxxxx.tk
-Address: 130.162.133.250
-Name:	proxy.xxxxxxxx.tk
-Address: 138.2.17.253
+proxyip.id.fxxk.dedyn.io	canonical name = proxyip.fxxk.dedyn.io.
+proxyip.fxxk.dedyn.io	canonical name = proxyip.fxxk.dedyn.io.cdn.cloudflare.net.
+Name:	proxyip.fxxk.dedyn.io.cdn.cloudflare.net
+Address: 198.12.95.225
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-** server can't find uu.milka66.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	jp10.nttkk.com
+Address: 203.89.8.107
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+kr.moonriver.sbs	canonical name = bestproxy.onecf.eu.org.
+Name:	bestproxy.onecf.eu.org
+Address: 132.145.54.84
+Name:	bestproxy.onecf.eu.org
+Address: 143.47.243.144
+Name:	bestproxy.onecf.eu.org
+Address: 150.230.20.156
+Name:	bestproxy.onecf.eu.org
+Address: 193.123.69.77
+Name:	bestproxy.onecf.eu.org
+Address: 140.238.158.238
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.47.32
+Name:	bestproxy.onecf.eu.org
+Address: 47.243.35.200
+Name:	bestproxy.onecf.eu.org
+Address: 152.70.59.90
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.61.116
+Name:	bestproxy.onecf.eu.org
+Address: 193.123.252.170
+Name:	bestproxy.onecf.eu.org
+Address: 8.212.41.98
+Name:	bestproxy.onecf.eu.org
+Address: 132.226.236.61
+Name:	bestproxy.onecf.eu.org
+Address: 144.24.169.81
+Name:	bestproxy.onecf.eu.org
+Address: 193.122.1.0
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.85.167
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global24.66666654.xyz.
+Name:	cfcn-b-global24.66666654.xyz
+Address: 172.67.68.110
 
