@@ -2,1300 +2,966 @@ Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	8vdy.com
-Address: 23.224.6.42
+Name:	www.bitc2.org
+Address: 104.21.81.125
+Name:	www.bitc2.org
+Address: 172.67.160.227
+Name:	www.bitc2.org
+Address: 2606:4700:3033::ac43:a0e3
+Name:	www.bitc2.org
+Address: 2606:4700:3037::6815:517d
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www61230.com
-Address: 16.163.140.93
-Name:	www61230.com
-Address: 18.166.223.166
-Name:	www61230.com
-Address: 16.162.160.145
-Name:	www61230.com
-Address: 43.198.247.73
-Name:	www61230.com
-Address: 18.163.191.100
-Name:	www61230.com
-Address: 18.162.243.234
-Name:	www61230.com
-Address: 43.198.109.206
-Name:	www61230.com
-Address: 18.167.72.72
-Name:	www61230.com
-Address: 43.198.111.52
-Name:	www61230.com
-Address: 43.198.250.148
-Name:	www61230.com
-Address: 16.162.88.137
-Name:	www61230.com
-Address: 18.166.58.59
-Name:	www61230.com
-Address: 43.198.21.154
-Name:	www61230.com
-Address: 18.163.80.103
-Name:	www61230.com
-Address: 43.198.185.181
-Name:	www61230.com
-Address: 43.198.22.25
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find 99hs.xyz: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	ccav.avav3.top
-Address: 172.67.172.189
-Name:	ccav.avav3.top
-Address: 104.21.30.102
-Name:	ccav.avav3.top
-Address: 2606:4700:3032::6815:1e66
-Name:	ccav.avav3.top
-Address: 2606:4700:3033::ac43:acbd
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.2sf.com	canonical name = ay.gtm-ay.cn.
-ay.gtm-ay.cn	canonical name = gtm-cn-83l3x3hn207.gtm-ay.cn.
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.67
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.83
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.84
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.82
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.68
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.70
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.85
-Name:	gtm-cn-83l3x3hn207.gtm-ay.cn
-Address: 172.83.153.69
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.ff546.com
-Address: 104.21.17.67
-Name:	www.ff546.com
-Address: 172.67.223.52
-Name:	www.ff546.com
-Address: 2606:4700:3036::6815:1143
-Name:	www.ff546.com
-Address: 2606:4700:3033::ac43:df34
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-jingtaikeji.com	canonical name = www.xtalpi.com.cdn.dnsv1.com.
-www.xtalpi.com.cdn.dnsv1.com	canonical name = 2rtditeg.sched.sma.tdnsstic1.cn.
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 112.84.131.219
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 113.201.158.139
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 221.204.16.62
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 42.177.83.115
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 211.93.212.105
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 36.248.54.59
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 61.241.178.243
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 60.221.17.65
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 113.201.158.62
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 14.205.93.60
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 101.72.254.91
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 36.249.65.247
-Name:	2rtditeg.sched.sma.tdnsstic1.cn
-Address: 36.250.243.20
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	498044.com
-Address: 18.163.80.103
-Name:	498044.com
-Address: 16.162.160.145
-Name:	498044.com
-Address: 43.198.109.206
-Name:	498044.com
-Address: 43.198.185.181
-Name:	498044.com
-Address: 18.166.223.166
-Name:	498044.com
-Address: 43.198.21.154
-Name:	498044.com
-Address: 16.163.140.93
-Name:	498044.com
-Address: 18.162.243.234
-Name:	498044.com
-Address: 43.198.247.73
-Name:	498044.com
-Address: 16.162.88.137
-Name:	498044.com
-Address: 43.198.22.25
-Name:	498044.com
-Address: 18.167.72.72
-Name:	498044.com
-Address: 43.198.111.52
-Name:	498044.com
-Address: 18.163.191.100
-Name:	498044.com
-Address: 43.198.250.148
-Name:	498044.com
-Address: 18.166.58.59
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find zl.aitrjc.xyz: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-1ho.cn	canonical name = 8ecvws6g.svipcdn.cn.
-8ecvws6g.svipcdn.cn	canonical name = nc6avm7t.svipcdn.cn.
-Name:	nc6avm7t.svipcdn.cn
-Address: 23.224.95.244
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-xax.hubeixinanxian.com	canonical name = xax.hubeixinanxian.com.w.kunlunaq.com.
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.102
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.101
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.103
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.105
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.104
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.100
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.98
-Name:	xax.hubeixinanxian.com.w.kunlunaq.com
-Address: 180.163.146.99
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	035hh.com
-Address: 172.67.174.93
-Name:	035hh.com
-Address: 104.21.64.18
-Name:	035hh.com
-Address: 2606:4700:3033::6815:4012
-Name:	035hh.com
-Address: 2606:4700:3030::ac43:ae5d
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-17sxl.com	canonical name = cdn.litongwuliu.com.
-Name:	cdn.litongwuliu.com
-Address: 172.64.80.1
-Name:	cdn.litongwuliu.com
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	cyysshipin.com
-Address: 104.21.28.111
-Name:	cyysshipin.com
-Address: 172.67.145.224
-Name:	cyysshipin.com
-Address: 2606:4700:3036::ac43:91e0
-Name:	cyysshipin.com
-Address: 2606:4700:3034::6815:1c6f
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	35boke.com
-Address: 65.75.209.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.xayuning.com
-Address: 38.14.100.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-22281s.com	canonical name = da738f71.u.fn01.vip.
-da738f71.u.fn01.vip	canonical name = d71fb347.n.fnvip100.com.
-Name:	d71fb347.n.fnvip100.com
-Address: 143.92.32.234
-Name:	d71fb347.n.fnvip100.com
-Address: 143.92.32.248
-Name:	d71fb347.n.fnvip100.com
-Address: 134.122.135.39
-Name:	d71fb347.n.fnvip100.com
-Address: 137.220.225.27
-Name:	d71fb347.n.fnvip100.com
-Address: 137.220.225.130
-Name:	d71fb347.n.fnvip100.com
-Address: 143.92.32.177
-Name:	d71fb347.n.fnvip100.com
-Address: 143.92.32.183
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.innolux.com	canonical name = d2akw2qo112h1a.cloudfront.net.
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 65.8.161.111
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 65.8.161.83
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 65.8.161.21
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 65.8.161.84
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:2e00:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:7200:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:6200:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:200:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:fa00:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:8200:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:2800:16:3d01:ef80:93a1
-Name:	d2akw2qo112h1a.cloudfront.net
-Address: 2600:9000:27f2:4800:16:3d01:ef80:93a1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.638555.com	canonical name = 638555.com.
-Name:	638555.com
-Address: 15.197.225.128
-Name:	638555.com
-Address: 3.33.251.168
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	http.www48k.com
-Address: 66.29.136.78
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.7x5x.com	canonical name = hk.newcname.com.
-Name:	hk.newcname.com
-Address: 172.247.193.91
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.kaqkwcgc.top: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	tc.bian666.cf
-Address: 104.21.73.250
-Name:	tc.bian666.cf
-Address: 172.67.151.207
-Name:	tc.bian666.cf
-Address: 2606:4700:3034::ac43:97cf
-Name:	tc.bian666.cf
-Address: 2606:4700:3031::6815:49fa
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.ghk71.com: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-api.wkbrowser.com	canonical name = api.wkbrowser.com.bytedns1.com.
-api.wkbrowser.com.bytedns1.com	canonical name = api.wkbrowser.com.c.dsa.cdnbuild.net.
-api.wkbrowser.com.c.dsa.cdnbuild.net	canonical name = l7-online-self-max-v6.s.dsa.cdnbuild.net.
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 130.44.212.65
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 2409:8c70:3a04:5:8000:0:b00:38
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 240e:946:3009:1:8000:0:b00:64
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 240e:95d:100b:10:8000:0:b00:58
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 240e:978:1208:0:8000:0:b00:79
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 240e:978:1226:0:8000:0:b00:126
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 2408:8719:2100:6:8000:0:b00:65
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 2409:8c20:b281:1a:8000:0:b00:63
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 2409:8c30:1000:1a01:8000:0:b00:71
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 2409:8c3c:900:110:8000:0:b00:111
-Name:	l7-online-self-max-v6.s.dsa.cdnbuild.net
-Address: 2409:8c3c:900:200:8000:0:b00:80
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	5584888.com
-Address: 172.67.149.185
-Name:	5584888.com
-Address: 104.21.29.195
-Name:	5584888.com
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.xg915.cn
-Address: 156.236.116.3
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-httpwww.8x8x8x.com	canonical name = gf.s9888.com.
-Name:	gf.s9888.com
-Address: 107.167.27.86
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-cokcn.eleximg.com	canonical name = cokcn.eleximg.com.cdn.dnsv1.com.
-cokcn.eleximg.com.cdn.dnsv1.com	canonical name = cdn-enroxdkv.sched.skalego.tdnsstic1.cn.
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 36.249.64.101
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 113.201.158.118
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 119.167.229.190
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 112.84.131.63
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 42.7.60.126
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 42.7.60.186
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 123.6.25.191
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 42.7.60.191
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 60.28.220.184
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 59.80.47.66
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 110.249.196.56
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 112.84.131.62
-Name:	cdn-enroxdkv.sched.skalego.tdnsstic1.cn
-Address: 116.136.12.227
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.hanju233.com
-Address: 208.98.40.78
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	5gasf.sbs
-Address: 104.237.157.185
-Name:	5gasf.sbs
-Address: 173.255.219.146
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-jiuhe61.top	canonical name = jiuhe61.top.w.alikunlun.com.
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 61.170.81.233
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 101.89.125.241
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 101.226.26.196
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 222.73.33.238
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 180.163.207.111
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 180.163.148.214
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 61.170.79.221
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 180.163.145.200
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 180.163.140.235
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 61.170.80.227
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 61.170.81.234
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 61.170.80.228
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 240e:96c:6400:603:3::3f7
-Name:	jiuhe61.top.w.alikunlun.com
-Address: 240e:96c:6400:603:3::3f8
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-bkyth95.top	canonical name = bkyth95.top.cdn.dnsv1.com.
-bkyth95.top.cdn.dnsv1.com	canonical name = 5y894z4x.sched.sma.tdnsstic1.cn.
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 61.241.178.243
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 36.250.243.20
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 112.84.131.219
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 211.93.212.105
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 113.201.158.139
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 42.177.83.115
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 101.72.254.91
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 36.249.65.247
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 113.201.158.62
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 221.204.16.62
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 60.221.17.65
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 14.205.93.60
-Name:	5y894z4x.sched.sma.tdnsstic1.cn
-Address: 36.248.54.59
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-bbs.1ga7j.com	canonical name = hone.newersuperdrover.com.
-Name:	hone.newersuperdrover.com
-Address: 172.235.57.203
-Name:	hone.newersuperdrover.com
-Address: 172.233.142.138
-Name:	hone.newersuperdrover.com
-Address: 172.233.137.129
-Name:	hone.newersuperdrover.com
-Address: 172.233.142.35
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.weleda.com	canonical name = api.weleda.bloomreach.cloud.
-Name:	api.weleda.bloomreach.cloud
-Address: 172.66.0.9
-Name:	api.weleda.bloomreach.cloud
-Address: 162.159.140.9
-Name:	api.weleda.bloomreach.cloud
-Address: 2a06:98c1:58::9
-Name:	api.weleda.bloomreach.cloud
-Address: 2606:4700:7::9
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find avatar.csdn.net: NXDOMAIN
-
-;; communications error to 127.0.0.53#53: timed out
-;; communications error to 127.0.0.53#53: timed out
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.flzx1.com	canonical name = api3.oooooooooo213.com.
-Name:	api3.oooooooooo213.com
-Address: 103.149.144.199
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	38kz.com
-Address: 35.241.55.245
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-51cg1.com.focus.cn	canonical name = ed3a7039.focus.cn.cdn.dnsv1.com.
-ed3a7039.focus.cn.cdn.dnsv1.com	canonical name = best.sched.skalego.tdnsstic1.cn.
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 119.167.229.190
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 112.84.131.62
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 116.136.12.227
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 110.249.196.56
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 59.80.47.95
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 113.201.158.118
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 36.249.64.101
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 112.84.131.63
-Name:	best.sched.skalego.tdnsstic1.cn
-Address: 59.80.47.66
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.o8455.com	canonical name = amxpjpbfq02.702537.com.
-amxpjpbfq02.702537.com	canonical name = ak123.apt0tm2tks.com.
-Name:	ak123.apt0tm2tks.com
-Address: 149.115.239.91
-Name:	ak123.apt0tm2tks.com
-Address: 149.115.239.86
-Name:	ak123.apt0tm2tks.com
-Address: 149.115.239.101
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	zhongxinw083.com
-Address: 18.167.68.76
-Name:	zhongxinw083.com
-Address: 216.224.123.252
-Name:	zhongxinw083.com
-Address: 45.125.15.103
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-gameyw-gbox.nosdn.127.net	canonical name = gameyw-gbox.nosdn.127.net.163jiasu.com.
-gameyw-gbox.nosdn.127.net.163jiasu.com	canonical name = gameyw-gbox.nosdn.127.net.w.cdngslb.com.
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.231
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.227
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.228
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.229
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.226
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.225
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.230
-Name:	gameyw-gbox.nosdn.127.net.w.cdngslb.com
-Address: 128.1.157.232
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	e2828.com
-Address: 103.149.144.199
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	126337.astoriabook.com
-Address: 45.12.31.225
-Name:	126337.astoriabook.com
-Address: 154.83.2.142
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	zh.stripchat.com
-Address: 104.17.117.12
-Name:	zh.stripchat.com
-Address: 104.17.118.12
-Name:	zh.stripchat.com
-Address: 2606:4700::6811:750c
-Name:	zh.stripchat.com
-Address: 2606:4700::6811:760c
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-base.95516.com	canonical name = base.95516.com.bsclink.cn.
-base.95516.com.bsclink.cn	canonical name = ubsyhipv6.v.bsclink.cn.
-Name:	ubsyhipv6.v.bsclink.cn
-Address: 156.225.111.13
-Name:	ubsyhipv6.v.bsclink.cn
-Address: 156.225.111.22
-Name:	ubsyhipv6.v.bsclink.cn
-Address: 156.225.111.14
-Name:	ubsyhipv6.v.bsclink.cn
-Address: 156.225.111.18
-Name:	ubsyhipv6.v.bsclink.cn
-Address: 240e:f7:e700:1fd::12f
-Name:	ubsyhipv6.v.bsclink.cn
-Address: 240e:f7:e700:1fd::130
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-014994.com	canonical name = ea593beb.vipcdn.cc.
-ea593beb.vipcdn.cc	canonical name = pic.vipcdn.cc.
-Name:	pic.vipcdn.cc
-Address: 45.142.157.209
-Name:	pic.vipcdn.cc
-Address: 204.13.155.193
-Name:	pic.vipcdn.cc
-Address: 204.13.155.130
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.xrk77.com
-Address: 172.232.25.148
-Name:	www.xrk77.com
-Address: 172.232.4.213
-Name:	www.xrk77.com
-Address: 172.232.31.180
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	tiankongwumai.com
-Address: 172.67.216.239
-Name:	tiankongwumai.com
-Address: 104.21.78.50
-Name:	tiankongwumai.com
-Address: 2606:4700:3036::6815:4e32
-Name:	tiankongwumai.com
-Address: 2606:4700:3037::ac43:d8ef
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.49719.co	canonical name = pr-suspensions.go.co.
-pr-suspensions.go.co	canonical name = pr-suspensions-neuweb-biz.expedrion.biz.
-pr-suspensions-neuweb-biz.expedrion.biz	canonical name = Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
-Name:	Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com
-Address: 23.22.122.205
-Name:	Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com
-Address: 50.17.207.246
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	www.sdchengji.com
-Address: 172.67.135.238
-Name:	www.sdchengji.com
-Address: 104.21.7.91
-Name:	www.sdchengji.com
-Address: 2606:4700:3034::6815:75b
-Name:	www.sdchengji.com
-Address: 2606:4700:3030::ac43:87ee
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-play.hfjiaan.cn	canonical name = play.hfjiaan.cn.tlivecdn.com.
-play.hfjiaan.cn.tlivecdn.com	canonical name = oversea-huya.liveplay.myqcloud.com.
-Name:	oversea-huya.liveplay.myqcloud.com
-Address: 0.0.0.1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-dymh.site	canonical name = d1nf9y9cfelvjk.cloudfront.net.
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 52.85.61.85
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 52.85.61.38
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 52.85.61.77
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 52.85.61.29
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:4a00:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:4800:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:5a00:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:d600:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:400:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:6000:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:9c00:13:f83f:3c00:93a1
-Name:	d1nf9y9cfelvjk.cloudfront.net
-Address: 2600:9000:26c9:f400:13:f83f:3c00:93a1
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-www.mydbattery.com	canonical name = www.mydbattery.com.w.cdngslb.com.
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 163.181.66.243
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 163.181.66.246
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 163.181.66.239
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 163.181.66.242
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 163.181.66.241
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 163.181.66.245
-Name:	www.mydbattery.com.w.cdngslb.com
+gaoneng.bilibili.com	canonical name = gaoneng.bilibili.com.w.cdngslb.com.
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.232
+Name:	gaoneng.bilibili.com.w.cdngslb.com
 Address: 163.181.66.240
-Name:	www.mydbattery.com.w.cdngslb.com
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.233
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 163.181.66.241
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.234
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 163.181.66.242
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.227
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 163.181.66.243
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.228
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 163.181.66.245
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.229
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 163.181.66.246
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.230
+Name:	gaoneng.bilibili.com.w.cdngslb.com
 Address: 163.181.66.238
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 2404:2280:1b8:0:3::7fb
-Name:	www.mydbattery.com.w.cdngslb.com
-Address: 2404:2280:1b8:0:3::7fc
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find jy65.xyz: NXDOMAIN
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 47.246.23.231
+Name:	gaoneng.bilibili.com.w.cdngslb.com
+Address: 163.181.66.239
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.204bb.com	canonical name = traff-3.hugedomains.com.
-traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.19.116.195
-Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
-Address: 3.18.7.81
+x456.com	canonical name = 1ca6da29.u.fn01.vip.
+1ca6da29.u.fn01.vip	canonical name = 3e87095b9.n.fnvip100.com.
+Name:	3e87095b9.n.fnvip100.com
+Address: 137.220.225.36
+Name:	3e87095b9.n.fnvip100.com
+Address: 137.220.225.53
+Name:	3e87095b9.n.fnvip100.com
+Address: 137.220.225.58
+Name:	3e87095b9.n.fnvip100.com
+Address: 134.122.160.152
+Name:	3e87095b9.n.fnvip100.com
+Address: 134.122.160.196
+Name:	3e87095b9.n.fnvip100.com
+Address: 137.220.225.4
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-img2d.xgo-img.com.cn	canonical name = a82a53cf.xgo-img.com.cn.cdn.dnsv1.com.
-a82a53cf.xgo-img.com.cn.cdn.dnsv1.com	canonical name = dutrqjkv.sched.skalego-dk.tdnsstic1.cn.
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 112.84.131.63
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 119.167.229.190
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 59.80.47.66
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 42.7.60.126
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 60.28.220.184
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 110.249.196.56
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 42.7.60.186
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 36.249.64.101
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 112.84.131.62
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 113.201.158.118
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 123.6.25.191
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 42.7.60.191
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 116.136.12.227
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:876c:1700:142:70::3e
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:872b:e02:11::5f
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:8719:3000:a:41::35
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:877f:30:f::1a
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:877f:30:f::3d
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:8726:1001:182::41
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:8749:c110:800:70::3a
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:8670:3af0:32:40::4
-Name:	dutrqjkv.sched.skalego-dk.tdnsstic1.cn
-Address: 2408:8738:1400:28::76
+Name:	docs.electrum.org
+Address: 104.21.91.204
+Name:	docs.electrum.org
+Address: 172.67.179.87
+Name:	docs.electrum.org
+Address: 2606:4700:3034::6815:5bcc
+Name:	docs.electrum.org
+Address: 2606:4700:3037::ac43:b357
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	ip-sin.rzserve.icu
-Address: 104.18.83.83
-Name:	ip-sin.rzserve.icu
-Address: 104.17.159.140
-Name:	ip-sin.rzserve.icu
-Address: 104.18.92.157
-Name:	ip-sin.rzserve.icu
-Address: 104.16.203.7
-Name:	ip-sin.rzserve.icu
-Address: 104.16.201.205
-Name:	ip-sin.rzserve.icu
-Address: 104.18.89.42
-Name:	ip-sin.rzserve.icu
-Address: 104.18.87.50
-Name:	ip-sin.rzserve.icu
-Address: 104.18.84.47
-Name:	ip-sin.rzserve.icu
-Address: 104.16.205.171
-Name:	ip-sin.rzserve.icu
-Address: 104.19.61.19
+fe-video-qc.xhscdn.com	canonical name = fe-video-qc.xhscdn.com.cdn.cengcloud.net.
+fe-video-qc.xhscdn.com.cdn.cengcloud.net	canonical name = fe-video-qc.xhscdn.com.cdn.cloudflare.net.
+Name:	fe-video-qc.xhscdn.com.cdn.cloudflare.net
+Address: 172.64.152.254
+Name:	fe-video-qc.xhscdn.com.cdn.cloudflare.net
+Address: 104.18.35.2
+Name:	fe-video-qc.xhscdn.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:98fe
+Name:	fe-video-qc.xhscdn.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2302
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www.diannixuan.com
-Address: 104.21.62.206
-Name:	www.diannixuan.com
-Address: 172.67.139.63
-Name:	www.diannixuan.com
-Address: 2606:4700:130:436c:6f75:6466:6c61:7265
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.uplaning.cn: NXDOMAIN
+432hf.com	canonical name = cd3xtq25.cdnv8.cn.
+cd3xtq25.cdnv8.cn	canonical name = mq8tuxdn.cdnv8.cn.
+Name:	mq8tuxdn.cdnv8.cn
+Address: 34.92.42.205
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	3466888.com
-Address: 43.198.250.148
-Name:	3466888.com
-Address: 16.163.140.93
-Name:	3466888.com
-Address: 18.163.80.103
-Name:	3466888.com
-Address: 43.198.109.206
-Name:	3466888.com
-Address: 43.198.21.154
-Name:	3466888.com
-Address: 18.163.191.100
-Name:	3466888.com
-Address: 16.162.88.137
-Name:	3466888.com
-Address: 16.162.160.145
-Name:	3466888.com
-Address: 18.167.72.72
-Name:	3466888.com
-Address: 43.198.111.52
-Name:	3466888.com
-Address: 18.166.223.166
-Name:	3466888.com
-Address: 43.198.185.181
-Name:	3466888.com
-Address: 43.198.22.25
-Name:	3466888.com
-Address: 18.166.58.59
-Name:	3466888.com
-Address: 18.162.243.234
-Name:	3466888.com
-Address: 43.198.247.73
+Name:	slader.com
+Address: 104.18.32.19
+Name:	slader.com
+Address: 172.64.155.237
+Name:	slader.com
+Address: 2606:4700:4400::6812:2013
+Name:	slader.com
+Address: 2606:4700:4400::ac40:9bed
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www.99187.com
-Address: 208.98.40.15
+Name:	wyt789.com
+Address: 103.224.212.211
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	btshark.com
-Address: 199.115.115.119
+t99777.com	canonical name = 0d39c398.u.fn03.vip.
+0d39c398.u.fn03.vip	canonical name = 2a05ea68.n.fnvip100.com.
+Name:	2a05ea68.n.fnvip100.com
+Address: 137.220.202.6
+Name:	2a05ea68.n.fnvip100.com
+Address: 14.128.63.230
+Name:	2a05ea68.n.fnvip100.com
+Address: 137.220.146.151
+Name:	2a05ea68.n.fnvip100.com
+Address: 137.220.146.174
+
+;; communications error to 127.0.0.53#53: timed out
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find www.ninew.top: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.t8455.com	canonical name = amxpjfq1.702537.com.
-amxpjfq1.702537.com	canonical name = ak123.apt0tm2tks.com.
-Name:	ak123.apt0tm2tks.com
-Address: 149.115.239.91
-Name:	ak123.apt0tm2tks.com
-Address: 149.115.239.86
-Name:	ak123.apt0tm2tks.com
-Address: 149.115.239.101
+Name:	fcbarcelona.com
+Address: 18.155.192.31
+Name:	fcbarcelona.com
+Address: 18.155.192.62
+Name:	fcbarcelona.com
+Address: 18.155.192.22
+Name:	fcbarcelona.com
+Address: 18.155.192.109
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	lieqimh.com
-Address: 104.21.73.32
-Name:	lieqimh.com
-Address: 172.67.139.54
-Name:	lieqimh.com
-Address: 2606:4700:3036::6815:4920
-Name:	lieqimh.com
-Address: 2606:4700:3034::ac43:8b36
+qqpublic.tc.qq.com	canonical name = qqpublic.qpic.cn.sched.legopic2.tdnsv6.com.
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 112.84.131.72
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 112.84.131.76
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 14.205.93.62
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 113.194.51.58
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 27.37.205.82
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 203.205.137.76
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 1.189.232.250
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 113.194.51.61
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 116.153.45.245
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 27.37.205.31
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 203.205.136.219
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 203.205.137.101
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 36.250.242.247
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 1.56.98.118
+Name:	qqpublic.qpic.cn.sched.legopic2.tdnsv6.com
+Address: 36.250.243.59
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www.uu776.com
-Address: 185.107.56.57
+Name:	54359.123847.com
+Address: 172.67.200.38
+Name:	54359.123847.com
+Address: 104.21.82.100
+Name:	54359.123847.com
+Address: 2606:4700:3036::ac43:c826
+Name:	54359.123847.com
+Address: 2606:4700:3032::6815:5264
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-yy9938.com	canonical name = 9fd86a85.u.fn01.vip.
-9fd86a85.u.fn01.vip	canonical name = 9096ca3db.n.fnvip100.com.
-Name:	9096ca3db.n.fnvip100.com
-Address: 27.124.12.143
-Name:	9096ca3db.n.fnvip100.com
-Address: 27.124.12.213
-Name:	9096ca3db.n.fnvip100.com
-Address: 118.107.9.226
-Name:	9096ca3db.n.fnvip100.com
-Address: 27.124.12.142
+c-tv.tv	canonical name = cfcdn777.bbw4ten.com.
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-sfn-static.sensorsdata.cn	canonical name = sfn-static.sensorsdata.cn.ucloud.com.cn.
-sfn-static.sensorsdata.cn.ucloud.com.cn	canonical name = sfn-static.sensorsdata.cn.ucnaming.com.
-sfn-static.sensorsdata.cn.ucnaming.com	canonical name = ucloudipv6-global.v.ucnaming.com.
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 156.225.111.19
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 156.225.111.14
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 38.175.45.19
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 156.225.111.23
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 156.225.111.12
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 38.175.45.16
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 2407:2440:2d::d
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 2407:2440:2d::14
-Name:	ucloudipv6-global.v.ucnaming.com
-Address: 2407:2440:2d::b
+Name:	wc555.cc
+Address: 103.231.254.121
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find shenzhenms5939.com: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	av91.jav74.top
-Address: 154.23.64.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find www.hearts1971.xyz: NXDOMAIN
+Name:	zj110.com
+Address: 172.67.37.121
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	8888.av255.top
-Address: 154.23.64.98
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find 3812227.in: NXDOMAIN
+Name:	musictyme.com
+Address: 38.12.198.147
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www.xkcc.vip
-Address: 45.145.74.57
+externalimage.1hai.cn	canonical name = externalimage.1hai.cn.cdn.dnsv1.com.
+externalimage.1hai.cn.cdn.dnsv1.com	canonical name = pkr7swu5.sched.sma-dk.tdnsstic1.cn.
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 36.250.243.20
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 36.250.243.5
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 221.204.16.62
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 14.205.93.60
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 39.91.140.92
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 101.72.233.67
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 36.248.54.59
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 42.177.83.225
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 61.241.178.243
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 36.249.65.247
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 60.221.17.65
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 42.177.83.87
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 113.201.158.62
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:876c:1780:122:70::10
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:8748:a102:2001:64::2a
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:873c:5011:0:70::1
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:8748:c110:302::3f
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:8670:3af0:32:40::1
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:8748:c110:302::40
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:872f:20:211::3a
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:874c:1ff:31:14::
+Name:	pkr7swu5.sched.sma-dk.tdnsstic1.cn
+Address: 2408:8749:c110:804:70::34
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	1632vip.cc
-Address: 114.114.114.114
+xingxing444tb.com	canonical name = hjaxc6wg.svipcdn.cn.
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www.haobaye4.com
-Address: 154.206.198.119
+Name:	dgdg14.com
+Address: 103.224.212.213
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find orderstartirreleas.info: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find h7g2z.me: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 69xx1107.xyz: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-mugc6.music.tc.qq.com	canonical name = mugc6.music.tc.qq.com.tcdn.qq.com.
-mugc6.music.tc.qq.com.tcdn.qq.com	canonical name = music.dsplego-dk.sched.dcloudstc.com.
-Name:	music.dsplego-dk.sched.dcloudstc.com
-Address: 218.29.205.107
-Name:	music.dsplego-dk.sched.dcloudstc.com
-Address: 113.201.158.140
-Name:	music.dsplego-dk.sched.dcloudstc.com
-Address: 240e:974:e200:4204:46::10
-Name:	music.dsplego-dk.sched.dcloudstc.com
-Address: 240e:944:e:5:63::ac
+0atip.hl55735.cc	canonical name = d1m9thldlks19p.cloudfront.net.
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 13.35.122.97
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 13.35.122.125
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 13.35.122.58
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 13.35.122.106
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:5000:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:8200:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:2a00:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:1200:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:c00:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:5400:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:b200:6:4a03:5b40:93a1
+Name:	d1m9thldlks19p.cloudfront.net
+Address: 2600:9000:21c4:f800:6:4a03:5b40:93a1
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-authqiniuuwmp3.changba.com	canonical name = authqiniuuwmp3-changba-com-idvepg2.qiniudns.com.
-authqiniuuwmp3-changba-com-idvepg2.qiniudns.com	canonical name = allcdnv6.foreign.qiniu.com.baishan-cloud.net.
-allcdnv6.foreign.qiniu.com.baishan-cloud.net	canonical name = zqnhw-ipv6.v.baishan-cloud.net.
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 38.175.45.20
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 38.175.45.254
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 156.225.111.30
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 38.175.45.11
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 2407:2440:2d::17
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 2407:2440:2b::f
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 2407:2440:2d::c
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 2407:2440:2d::15
-Name:	zqnhw-ipv6.v.baishan-cloud.net
-Address: 2407:2440:2b::e
+cd.to8to.com	canonical name = all.to8to.com.w.kunlungr.com.
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.232
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.229
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.235
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.234
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.233
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.231
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.230
+Name:	all.to8to.com.w.kunlungr.com
+Address: 114.80.179.236
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.537studio.com	canonical name = ip.sb.
-Name:	ip.sb
-Address: 172.67.75.172
-Name:	ip.sb
-Address: 104.26.12.31
-Name:	ip.sb
-Address: 104.26.13.31
-Name:	ip.sb
-Address: 2606:4700:20::681a:d1f
-Name:	ip.sb
-Address: 2606:4700:20::ac43:4bac
-Name:	ip.sb
-Address: 2606:4700:20::681a:c1f
+Name:	v.ihuibq.cloudns.org
+Address: 185.206.180.121
+Name:	v.ihuibq.cloudns.org
+Address: 46.166.184.102
+Name:	v.ihuibq.cloudns.org
+Address: 2a00:1768:2001:63::46:102
+Name:	v.ihuibq.cloudns.org
+Address: 2a0b:1640:1:1:1:1:ce7:cfcc
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	17se.jav74.top
-Address: 154.23.64.98
+Name:	www.nieuwskoerier.nl
+Address: 172.67.177.113
+Name:	www.nieuwskoerier.nl
+Address: 104.21.83.145
+Name:	www.nieuwskoerier.nl
+Address: 2606:4700:3030::6815:5391
+Name:	www.nieuwskoerier.nl
+Address: 2606:4700:3030::ac43:b171
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.8x8x.co	canonical name = http-301.cdn.goodluck-co.com.
-Name:	http-301.cdn.goodluck-co.com
-Address: 23.224.212.236
+Name:	281xx.com
+Address: 13.248.151.237
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	17755.com
-Address: 172.247.112.166
-Name:	17755.com
-Address: 172.247.112.165
-Name:	17755.com
-Address: 162.209.184.59
+www.kq7.com	canonical name = www.kq7.com.wswebpic.com.
+Name:	www.kq7.com.wswebpic.com
+Address: 157.185.179.12
+Name:	www.kq7.com.wswebpic.com
+Address: 138.113.24.64
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	j41g.com
-Address: 74.63.241.28
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-** server can't find theav278.cc: NXDOMAIN
-
-Server:		127.0.0.53
-Address:	127.0.0.53#53
-
-Non-authoritative answer:
-Name:	gffg.com
-Address: 13.227.74.10
-Name:	gffg.com
-Address: 13.227.74.109
-Name:	gffg.com
-Address: 13.227.74.88
-Name:	gffg.com
-Address: 13.227.74.18
-Name:	gffg.com
-Address: 2600:9000:266a:ce00:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:2400:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:600:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:a600:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:3000:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:f800:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:6200:4:3d06:ed40:93a1
-Name:	gffg.com
-Address: 2600:9000:266a:f600:4:3d06:ed40:93a1
+www.8882225.com	canonical name = bvhgugi.3332229.xyz.
+bvhgugi.3332229.xyz	canonical name = cx3.cdnchuxin.com.
+cx3.cdnchuxin.com	canonical name = v5pxfhje-u.dns22889.com.
+v5pxfhje-u.dns22889.com	canonical name = 4u5w7tyz.n.dns22889.com.
+Name:	4u5w7tyz.n.dns22889.com
+Address: 45.64.52.231
+Name:	4u5w7tyz.n.dns22889.com
+Address: 103.248.138.182
+Name:	4u5w7tyz.n.dns22889.com
+Address: 207.148.34.180
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	m.xuanxuan170.com
-Address: 64.32.9.23
+Name:	442215.com
+Address: 13.248.169.48
+Name:	442215.com
+Address: 76.223.54.146
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.3322.cc	canonical name = www.3322.cc.bsclink.cn.
-www.3322.cc.bsclink.cn	canonical name = uz95.v.bsclink.cn.
-Name:	uz95.v.bsclink.cn
-Address: 38.175.45.63
-Name:	uz95.v.bsclink.cn
-Address: 38.175.45.61
-Name:	uz95.v.bsclink.cn
-Address: 38.175.45.60
+Name:	www.99b38.com
+Address: 23.225.223.237
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; Got SERVFAIL reply from 127.0.0.53
+** server can't find www.99b38.com: SERVFAIL
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	www8x8x.com
-Address: 162.209.175.124
+Name:	atm-chiptuning.com
+Address: 104.26.6.145
+Name:	atm-chiptuning.com
+Address: 104.26.7.145
+Name:	atm-chiptuning.com
+Address: 172.67.72.65
+Name:	atm-chiptuning.com
+Address: 2606:4700:20::ac43:4841
+Name:	atm-chiptuning.com
+Address: 2606:4700:20::681a:791
+Name:	atm-chiptuning.com
+Address: 2606:4700:20::681a:691
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.zcycjy.com	canonical name = www.zcycjy.com.w.kunluncan.com.
-www.zcycjy.com.w.kunluncan.com	canonical name = www.zcycjy.com.queniusa.com.
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.77.225
-Name:	www.zcycjy.com.queniusa.com
-Address: 180.163.140.235
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.79.224
-Name:	www.zcycjy.com.queniusa.com
-Address: 180.163.145.202
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.77.226
-Name:	www.zcycjy.com.queniusa.com
-Address: 180.163.140.236
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.79.225
-Name:	www.zcycjy.com.queniusa.com
-Address: 180.163.145.203
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.77.227
-Name:	www.zcycjy.com.queniusa.com
-Address: 180.163.140.237
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.79.226
-Name:	www.zcycjy.com.queniusa.com
-Address: 180.163.145.204
-Name:	www.zcycjy.com.queniusa.com
-Address: 61.170.77.228
+Name:	fengyun180.cn
+Address: 38.48.216.146
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-** server can't find polyfill.io: NXDOMAIN
+** server can't find www.xkr6666.life: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-19789vip.com	canonical name = 19789vip.com.dns.jiashuba.com.
-19789vip.com.dns.jiashuba.com	canonical name = 19789vip.com.sspeeddns.com.
-19789vip.com.sspeeddns.com	canonical name = ss-k2-ss-k2-04.sspeeddns.com.
+Name:	wap.go14rmvl.top
+Address: 172.67.202.179
+Name:	wap.go14rmvl.top
+Address: 104.21.93.16
+Name:	wap.go14rmvl.top
+Address: 2606:4700:3037::6815:5d10
+Name:	wap.go14rmvl.top
+Address: 2606:4700:3034::ac43:cab3
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ios.wowowo9.top
+Address: 172.67.197.34
+Name:	ios.wowowo9.top
+Address: 104.21.84.207
+Name:	ios.wowowo9.top
+Address: 2606:4700:3034::ac43:c522
+Name:	ios.wowowo9.top
+Address: 2606:4700:3032::6815:54cf
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+panel12.serv00.net	canonical name = serv00.net.
+Name:	serv00.net
+Address: 128.204.218.48
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	8xzl.com
+Address: 162.209.175.125
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find qazxswed.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	x7c99.com
+Address: 162.209.175.126
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find decf6.980666.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	922535.com.9942b.com
+Address: 38.55.48.194
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+enterprise.todesk.com	canonical name = enterprise.todesk.com.cdn.dnsv1.com.cn.
+enterprise.todesk.com.cdn.dnsv1.com.cn	canonical name = 04ts3ke9.ovslegodl.sched.ovscdns.com.
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.163
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.140
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.125
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.175
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.168
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.107
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.21.91
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.108
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.98
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.132
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.93
+Name:	04ts3ke9.ovslegodl.sched.ovscdns.com
+Address: 101.33.20.249
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+m.ub888.cc	canonical name = bvod25.95mo.xyz.
+Name:	bvod25.95mo.xyz
+Address: 172.67.209.173
+Name:	bvod25.95mo.xyz
+Address: 104.21.53.69
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3034::6815:3545
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3035::ac43:d1ad
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kempingove-sekery.najportal.sk
+Address: 104.26.5.202
+Name:	kempingove-sekery.najportal.sk
+Address: 104.26.4.202
+Name:	kempingove-sekery.najportal.sk
+Address: 172.67.70.23
+Name:	kempingove-sekery.najportal.sk
+Address: 2606:4700:20::681a:4ca
+Name:	kempingove-sekery.najportal.sk
+Address: 2606:4700:20::681a:5ca
+Name:	kempingove-sekery.najportal.sk
+Address: 2606:4700:20::ac43:4617
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+app.729ly.net	canonical name = cname.vercel-dns.com.
+Name:	cname.vercel-dns.com
+Address: 76.76.21.142
+Name:	cname.vercel-dns.com
+Address: 76.76.21.61
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.bqzw789.org	canonical name = www.bqg789.com.cdn.cloudflare.net.
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 172.67.72.65
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 104.26.7.145
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 104.26.6.145
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 2606:4700:20::ac43:4841
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 2606:4700:20::681a:691
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 2606:4700:20::681a:791
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kolocal.com
+Address: 104.21.83.145
+Name:	kolocal.com
+Address: 172.67.177.113
+Name:	kolocal.com
+Address: 2606:4700:3030::ac43:b171
+Name:	kolocal.com
+Address: 2606:4700:3030::6815:5391
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.toploong.net	canonical name = d3lkxgkjtjwbd0.cloudfront.net.
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 13.35.122.90
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 13.35.122.87
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 13.35.122.3
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 13.35.122.32
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:9000:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:2c00:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:a600:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:7200:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:8e00:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:fa00:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:8200:1b:906e:2100:93a1
+Name:	d3lkxgkjtjwbd0.cloudfront.net
+Address: 2600:9000:21c4:e200:1b:906e:2100:93a1
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	goflyvpn.xyz
+Address: 172.67.168.82
+Name:	goflyvpn.xyz
+Address: 104.21.78.181
+Name:	goflyvpn.xyz
+Address: 2606:4700:3030::6815:4eb5
+Name:	goflyvpn.xyz
+Address: 2606:4700:3031::ac43:a852
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	0k78mi.com
+Address: 23.225.33.86
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; Got SERVFAIL reply from 127.0.0.53
+** server can't find 0k78mi.com: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	91p91.com
+Address: 69.162.95.4
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.98tang.tv
+Address: 103.224.212.216
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.m98th.com
+Address: 172.67.70.23
+Name:	www.m98th.com
+Address: 104.26.4.202
+Name:	www.m98th.com
+Address: 104.26.5.202
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.gzlatin.com
+Address: 154.36.232.179
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	99xav.xyz.8205ggg.com
+Address: 38.55.48.194
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find 1i8mux.xyz: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find aaa53534.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.figma.com
+Address: 13.227.74.47
+Name:	www.figma.com
+Address: 13.227.74.127
+Name:	www.figma.com
+Address: 13.227.74.52
+Name:	www.figma.com
+Address: 13.227.74.59
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.jiechuangxing.com
+Address: 43.135.120.120
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+857zb360.com	canonical name = 857zb.gtr-cloudflare.net.
+857zb.gtr-cloudflare.net	canonical name = gtr-site02-pv539qx7.cdn-gtr.net.
+gtr-site02-pv539qx7.cdn-gtr.net	canonical name = 857.g.cdn-gtr.net.
+Name:	857.g.cdn-gtr.net
+Address: 35.220.215.237
+Name:	857.g.cdn-gtr.net
+Address: 34.92.134.132
+Name:	857.g.cdn-gtr.net
+Address: 34.92.194.132
+Name:	857.g.cdn-gtr.net
+Address: 34.150.107.246
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	cdwhcw.com
+Address: 172.67.131.183
+Name:	cdwhcw.com
+Address: 104.21.10.199
+Name:	cdwhcw.com
+Address: 2606:4700:3036::6815:ac7
+Name:	cdwhcw.com
+Address: 2606:4700:3036::ac43:83b7
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find api.zhzx.top: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kkdig.com
+Address: 104.21.12.126
+Name:	kkdig.com
+Address: 172.67.194.127
+Name:	kkdig.com
+Address: 2606:4700:3030::ac43:c27f
+Name:	kkdig.com
+Address: 2606:4700:3032::6815:c7e
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+apiff14risingstones.web.sdo.com	canonical name = apiff14risingstones.web.sdo.com.eo.dnse0.com.
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 119.188.123.187
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 221.204.43.248
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 113.194.50.179
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 42.7.60.118
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 61.241.148.62
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 123.6.40.212
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 1.56.98.203
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 36.249.64.128
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 211.97.84.77
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 61.240.220.8
+Name:	apiff14risingstones.web.sdo.com.eo.dnse0.com
+Address: 60.28.220.199
+;; Got SERVFAIL reply from 127.0.0.53
+** server can't find apiff14risingstones.web.sdo.com.eo.dnse0.com: SERVFAIL
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.diageo.com	canonical name = diageo-v2-corp.cd.invdcloud-is.co.uk.
+diageo-v2-corp.cd.invdcloud-is.co.uk	canonical name = cd-invdcloud-is.co.uk.edgekey.net.
+cd-invdcloud-is.co.uk.edgekey.net	canonical name = e125179.b.akamaiedge.net.
+Name:	e125179.b.akamaiedge.net
+Address: 23.46.216.203
+Name:	e125179.b.akamaiedge.net
+Address: 23.46.216.205
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	iosxw.sbs
+Address: 156.238.224.16
+Name:	iosxw.sbs
+Address: 156.238.229.100
+Name:	iosxw.sbs
+Address: 156.238.224.5
+Name:	iosxw.sbs
+Address: 156.238.229.232
+Name:	iosxw.sbs
+Address: 23.224.198.100
+Name:	iosxw.sbs
+Address: 154.201.91.42
+Name:	iosxw.sbs
+Address: 156.238.229.11
+Name:	iosxw.sbs
+Address: 38.6.178.157
+Name:	iosxw.sbs
+Address: 156.238.229.165
+Name:	iosxw.sbs
+Address: 154.201.91.83
+Name:	iosxw.sbs
+Address: 156.238.229.4
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sunhubk.com	canonical name = domainexpired.dnspod.cn.
+Name:	domainexpired.dnspod.cn
+Address: 101.33.46.108
+Name:	domainexpired.dnspod.cn
+Address: 43.153.249.96
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.hhav45.com
+Address: 104.21.93.55
+Name:	www.hhav45.com
+Address: 172.67.205.145
+Name:	www.hhav45.com
+Address: 2606:4700:3036::6815:5d37
+Name:	www.hhav45.com
+Address: 2606:4700:3031::ac43:cd91
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.a4992.com	canonical name = 72f84162.u.fn01.vip.
+72f84162.u.fn01.vip	canonical name = 74ee95f8a.n.fnvip100.com.
+Name:	74ee95f8a.n.fnvip100.com
+Address: 137.220.225.132
+Name:	74ee95f8a.n.fnvip100.com
+Address: 45.125.14.210
+Name:	74ee95f8a.n.fnvip100.com
+Address: 118.107.9.227
+Name:	74ee95f8a.n.fnvip100.com
+Address: 118.107.9.237
+Name:	74ee95f8a.n.fnvip100.com
+Address: 134.122.139.20
+Name:	74ee95f8a.n.fnvip100.com
+Address: 137.220.202.113
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	api.ecmarkets.net
+Address: 104.21.47.142
+Name:	api.ecmarkets.net
+Address: 172.67.171.81
+Name:	api.ecmarkets.net
+Address: 2606:4700:3030::ac43:ab51
+Name:	api.ecmarkets.net
+Address: 2606:4700:3030::6815:2f8e
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+onesight.com	canonical name = ga-bp1l2pg44q6u1od70c6q4.aliyunga0018.com.
+Name:	ga-bp1l2pg44q6u1od70c6q4.aliyunga0018.com
+Address: 47.254.91.231
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.4hu19k.com
+Address: 103.224.212.215
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+m.19789r.com	canonical name = m.19789r.com.dns.jiashuba.com.
+m.19789r.com.dns.jiashuba.com	canonical name = m.19789r.com.sspeeddns.com.
+m.19789r.com.sspeeddns.com	canonical name = ss-k2-ss-k2-04.sspeeddns.com.
 Name:	ss-k2-ss-k2-04.sspeeddns.com
 Address: 172.104.39.40
 
@@ -1303,147 +969,365 @@ Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	wwwyouji.com
-Address: 104.247.81.50
+www.xingshangyun.com	canonical name = cdn.462222.xyz.
+Name:	cdn.462222.xyz
+Address: 221.14.147.234
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-www.astrazeneca.ca	canonical name = dwg72oe3hh6m9.cloudfront.net.
-Name:	dwg72oe3hh6m9.cloudfront.net
-Address: 13.35.122.39
-Name:	dwg72oe3hh6m9.cloudfront.net
-Address: 13.35.122.42
-Name:	dwg72oe3hh6m9.cloudfront.net
-Address: 13.35.122.29
-Name:	dwg72oe3hh6m9.cloudfront.net
-Address: 13.35.122.38
+Name:	www.tude8.com
+Address: 72.52.178.23
+Name:	www.tude8.com
+Address: 2600:3c02::f03c:91ff:fee2:5b0f
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	tyxz.org
-Address: 162.210.196.168
+Name:	moodconceptstore.com
+Address: 3.70.117.23
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-dl.workec.com	canonical name = dl.workec.com.cdn.dnsv1.com.cn.
-dl.workec.com.cdn.dnsv1.com.cn	canonical name = best.sched.sma.tdnsstic1.cn.
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 116.196.150.181
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 58.251.62.56
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 27.195.127.56
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 119.176.27.237
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 14.205.93.60
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 123.133.75.193
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 116.196.150.173
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 116.196.148.61
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 119.176.27.126
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 116.196.148.66
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 122.190.64.60
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 119.176.27.124
-Name:	best.sched.sma.tdnsstic1.cn
-Address: 119.176.27.220
+oss.nbs.cn	canonical name = oss.nbs.cn.bsclink.cn.
+oss.nbs.cn.bsclink.cn	canonical name = mtipv6.v.bsclink.cn.
+Name:	mtipv6.v.bsclink.cn
+Address: 156.225.111.17
+Name:	mtipv6.v.bsclink.cn
+Address: 156.225.111.20
+Name:	mtipv6.v.bsclink.cn
+Address: 156.225.111.21
+Name:	mtipv6.v.bsclink.cn
+Address: 156.225.111.18
+Name:	mtipv6.v.bsclink.cn
+Address: 156.225.111.22
+Name:	mtipv6.v.bsclink.cn
+Address: 2407:2440:2d::e
+Name:	mtipv6.v.bsclink.cn
+Address: 2407:2440:2d::f
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
-** server can't find pull.luojizhongyi.com: NXDOMAIN
+** server can't find xiaoeonline.com: NXDOMAIN
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	985.hsck.com
-Address: 13.248.169.48
-Name:	985.hsck.com
-Address: 76.223.54.146
+www.5502k.com	canonical name = 5a785613.u.fn01.vip.
+5a785613.u.fn01.vip	canonical name = 4a7124cc.n.fnvip100.com.
+Name:	4a7124cc.n.fnvip100.com
+Address: 137.220.146.140
+Name:	4a7124cc.n.fnvip100.com
+Address: 137.220.225.105
+Name:	4a7124cc.n.fnvip100.com
+Address: 216.224.123.154
+Name:	4a7124cc.n.fnvip100.com
+Address: 216.224.123.254
+Name:	4a7124cc.n.fnvip100.com
+Address: 134.122.184.106
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-las999.op88.net	canonical name = d25mo65mjzb95e.cloudfront.net.
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 18.155.192.111
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 18.155.192.61
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 18.155.192.62
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 18.155.192.53
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:e600:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:d000:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:e000:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:4400:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:9a00:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:3a00:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:f600:1e:12f4:8480:93a1
-Name:	d25mo65mjzb95e.cloudfront.net
-Address: 2600:9000:234f:8e00:1e:12f4:8480:93a1
+25609.shop	canonical name = d7368772.u.fn03.vip.
+d7368772.u.fn03.vip	canonical name = d288c140b.n.fnvip100.com.
+Name:	d288c140b.n.fnvip100.com
+Address: 20.2.87.205
+Name:	d288c140b.n.fnvip100.com
+Address: 20.2.233.52
+Name:	d288c140b.n.fnvip100.com
+Address: 20.255.59.117
+Name:	d288c140b.n.fnvip100.com
+Address: 18.162.148.112
+Name:	d288c140b.n.fnvip100.com
+Address: 18.166.54.42
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-wbpkh5001.17c.cn	canonical name = wbpkh5001.17c.cn.w.kunlunar.com.
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 180.163.145.200
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 61.170.80.231
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 61.170.81.233
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 180.163.140.235
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 101.89.125.243
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 101.226.26.145
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 222.73.33.234
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 180.163.207.88
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 180.163.148.216
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 61.170.79.222
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 61.170.80.232
-Name:	wbpkh5001.17c.cn.w.kunlunar.com
-Address: 61.170.81.234
+www.ihpa.net	canonical name = shops.okki.com.
+Name:	shops.okki.com
+Address: 104.17.9.8
+Name:	shops.okki.com
+Address: 104.17.8.8
+
+;; Truncated, retrying in TCP mode.
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+ytruiqi.com	canonical name = free.opendns123.com.
+free.opendns123.com	canonical name = q.dnsapi12.com.
+q.dnsapi12.com	canonical name = a.dnsapi12.com.
+Name:	a.dnsapi12.com
+Address: 1.0.0.32
+Name:	a.dnsapi12.com
+Address: 1.0.0.33
+Name:	a.dnsapi12.com
+Address: 1.0.0.34
+Name:	a.dnsapi12.com
+Address: 1.0.0.35
+Name:	a.dnsapi12.com
+Address: 1.0.0.36
+Name:	a.dnsapi12.com
+Address: 1.0.0.37
+Name:	a.dnsapi12.com
+Address: 1.0.0.38
+Name:	a.dnsapi12.com
+Address: 1.0.0.39
+Name:	a.dnsapi12.com
+Address: 1.0.0.40
+Name:	a.dnsapi12.com
+Address: 1.0.0.41
+Name:	a.dnsapi12.com
+Address: 1.0.0.42
+Name:	a.dnsapi12.com
+Address: 1.0.0.43
+Name:	a.dnsapi12.com
+Address: 1.0.0.44
+Name:	a.dnsapi12.com
+Address: 1.0.0.45
+Name:	a.dnsapi12.com
+Address: 1.0.0.46
+Name:	a.dnsapi12.com
+Address: 1.0.0.47
+Name:	a.dnsapi12.com
+Address: 1.0.0.48
+Name:	a.dnsapi12.com
+Address: 1.0.0.49
+Name:	a.dnsapi12.com
+Address: 1.0.0.50
+Name:	a.dnsapi12.com
+Address: 1.0.0.51
+Name:	a.dnsapi12.com
+Address: 1.0.0.2
+Name:	a.dnsapi12.com
+Address: 1.0.0.3
+Name:	a.dnsapi12.com
+Address: 1.0.0.4
+Name:	a.dnsapi12.com
+Address: 1.0.0.5
+Name:	a.dnsapi12.com
+Address: 1.0.0.6
+Name:	a.dnsapi12.com
+Address: 1.0.0.7
+Name:	a.dnsapi12.com
+Address: 1.0.0.8
+Name:	a.dnsapi12.com
+Address: 1.0.0.9
+Name:	a.dnsapi12.com
+Address: 1.0.0.10
+Name:	a.dnsapi12.com
+Address: 1.0.0.11
+Name:	a.dnsapi12.com
+Address: 1.0.0.12
+Name:	a.dnsapi12.com
+Address: 1.0.0.13
+Name:	a.dnsapi12.com
+Address: 1.0.0.14
+Name:	a.dnsapi12.com
+Address: 1.0.0.15
+Name:	a.dnsapi12.com
+Address: 1.0.0.16
+Name:	a.dnsapi12.com
+Address: 1.0.0.17
+Name:	a.dnsapi12.com
+Address: 1.0.0.18
+Name:	a.dnsapi12.com
+Address: 1.0.0.19
+Name:	a.dnsapi12.com
+Address: 1.0.0.20
+Name:	a.dnsapi12.com
+Address: 1.0.0.21
+Name:	a.dnsapi12.com
+Address: 1.0.0.22
+Name:	a.dnsapi12.com
+Address: 1.0.0.23
+Name:	a.dnsapi12.com
+Address: 1.0.0.24
+Name:	a.dnsapi12.com
+Address: 1.0.0.25
+Name:	a.dnsapi12.com
+Address: 1.0.0.26
+Name:	a.dnsapi12.com
+Address: 1.0.0.27
+Name:	a.dnsapi12.com
+Address: 1.0.0.28
+Name:	a.dnsapi12.com
+Address: 1.0.0.29
+Name:	a.dnsapi12.com
+Address: 1.0.0.30
+Name:	a.dnsapi12.com
+Address: 1.0.0.31
 
 Server:		127.0.0.53
 Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:	m.aqdygi.com
-Address: 104.21.10.55
-Name:	m.aqdygi.com
-Address: 172.67.131.63
-Name:	m.aqdygi.com
-Address: 2606:4700:3037::6815:a37
-Name:	m.aqdygi.com
-Address: 2606:4700:3031::ac43:833f
+www.5fa835.com	canonical name = wyxrdk.mslhzt-p2gvn3.com.
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.4.53
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.84.3.93
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.6.189
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.12.34
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.12.14
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.12.24
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.6.186
+Name:	wyxrdk.mslhzt-p2gvn3.com
+Address: 154.88.4.57
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+86mvaw3n.cdnv8.cn	canonical name = rk45s67e.cdnv8.cn.
+Name:	rk45s67e.cdnv8.cn
+Address: 23.224.95.223
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+cog777.mystrikingly.com	canonical name = dukt9g6vj8lpb.cloudfront.net.
+Name:	dukt9g6vj8lpb.cloudfront.net
+Address: 52.84.150.45
+Name:	dukt9g6vj8lpb.cloudfront.net
+Address: 52.84.150.43
+Name:	dukt9g6vj8lpb.cloudfront.net
+Address: 52.84.150.39
+Name:	dukt9g6vj8lpb.cloudfront.net
+Address: 52.84.150.63
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find yuyuanw.net: No answer
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	07rx.av10.xyz
+Address: 172.67.161.199
+Name:	07rx.av10.xyz
+Address: 104.21.9.243
+Name:	07rx.av10.xyz
+Address: 2606:4700:3037::ac43:a1c7
+Name:	07rx.av10.xyz
+Address: 2606:4700:3032::6815:9f3
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+lxapi.lxjiasu.com	canonical name = lxapi.lxjiasu.com.w.cdngslb.com.
+Name:	lxapi.lxjiasu.com.w.cdngslb.com
+Address: 8.25.82.208
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.svitlytsia.in.ua
+Address: 104.21.18.46
+Name:	www.svitlytsia.in.ua
+Address: 172.67.180.98
+Name:	www.svitlytsia.in.ua
+Address: 2606:4700:3034::ac43:b462
+Name:	www.svitlytsia.in.ua
+Address: 2606:4700:3036::6815:122e
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+v3726.com	canonical name = pqkvu8d6-u.funnull02.vip.
+pqkvu8d6-u.funnull02.vip	canonical name = f5656f14.u.fn01.vip.
+f5656f14.u.fn01.vip	canonical name = b2aa6e456.n.fnvip100.com.
+Name:	b2aa6e456.n.fnvip100.com
+Address: 134.122.184.106
+Name:	b2aa6e456.n.fnvip100.com
+Address: 137.220.225.17
+Name:	b2aa6e456.n.fnvip100.com
+Address: 137.220.225.28
+Name:	b2aa6e456.n.fnvip100.com
+Address: 137.220.225.63
+Name:	b2aa6e456.n.fnvip100.com
+Address: 137.220.225.88
+Name:	b2aa6e456.n.fnvip100.com
+Address: 137.220.225.199
+Name:	b2aa6e456.n.fnvip100.com
+Address: 202.79.161.87
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find m3u8.zztt85.com: NXDOMAIN
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kjs3.com
+Address: 172.67.223.139
+Name:	kjs3.com
+Address: 104.21.70.127
+Name:	kjs3.com
+Address: 2606:4700:3031::6815:467f
+Name:	kjs3.com
+Address: 2606:4700:3034::ac43:df8b
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.alumetalsh.com
+Address: 104.128.228.99
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	bandainamcogames.com
+Address: 172.67.131.183
+Name:	bandainamcogames.com
+Address: 104.21.10.199
+Name:	bandainamcogames.com
+Address: 2606:4700:3036::ac43:83b7
+Name:	bandainamcogames.com
+Address: 2606:4700:3036::6815:ac7
+
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; communications error to 127.0.0.53#53: timed out
+;; no servers could be reached
+
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	gbapps.net
+Address: 172.67.152.217
+Name:	gbapps.net
+Address: 104.21.41.223
+Name:	gbapps.net
+Address: 2606:4700:3037::6815:29df
+Name:	gbapps.net
+Address: 2606:4700:3037::ac43:98d9
 
