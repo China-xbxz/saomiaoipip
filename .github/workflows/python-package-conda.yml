@@ -2,7 +2,7 @@ name: Daily Script Execution
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 11,20 * * *'
   push:
   workflow_dispatch:
 
